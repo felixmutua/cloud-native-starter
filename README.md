@@ -144,6 +144,7 @@ $ scripts/delete-istio-ingress.sh
 The following [slides](https://github.com/nheidloff/cloud-native-starter/blob/master/documentation/OneHourTalk.pdf) summarize this repo:
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5b38832fd4dc4fc691c015d8c412d324)](https://app.codacy.com/gh/felixmutua/cloud-native-starter?utm_source=github.com&utm_medium=referral&utm_content=felixmutua/cloud-native-starter&utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5b38832fd4dc4fc691c015d8c412d324)](https://app.codacy.com/gh/felixmutua/cloud-native-starter?utm_source=github.com&utm_medium=referral&utm_content=felixmutua/cloud-native-starter&utm_campaign=Badge_Grade)
 [![Slides](images/slides.png)](documentation/OneHourTalk.pdf)
 
 * [Project Description and Design Principles](http://heidloff.net/article/example-java-app-cloud-kubernetes)
